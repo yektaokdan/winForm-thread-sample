@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\thread_synchronization.Form1.resources
+obj\Debug\thread_synchronization.Properties.Resources.resources
+obj\Debug\thread_synchronization.csproj.GenerateResource.Cache
+bin\Debug\thread_synchronization.exe
+bin\Debug\thread_synchronization.pdb
+obj\Debug\thread_synchronization.exe
+obj\Debug\thread_synchronization.pdb
